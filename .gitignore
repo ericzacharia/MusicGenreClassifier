@@ -1,10 +1,8 @@
 Archive
 Articles
-spectrograms
-audio_samples
+*.wav
+*.png
 ngrok-stable-linux-amd64
-genres_original
-images_original
 fma_small
 fma_medium
 fma_large
