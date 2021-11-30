@@ -43,5 +43,3 @@ $ streamlit run app.py
 
 ##### Rock: Learn To Fly - Foo Fighters.mp3 (Metal)
 <a href="#"> <img alt="Home Page" src="WebAppExamples/RockIncorrect.png" width="400"> </a>
-
-Room to Improve: Blues and Classical often get misclassified.
