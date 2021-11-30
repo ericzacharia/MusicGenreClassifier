@@ -1,4 +1,4 @@
-# Predicting the Stock Market using the BERT Model and Sentiment Analysis of Live Tweets
+# Predicting the Genre of Music Samples without Extracting Audio Features using a Convolutional Neural Network
 
 <!-- ## Video Presentation on YouTube:
 <a href="https://www.youtube.com/watch?......"> <img alt="Video Presentation" src="YouTubeThumbnail.png" width="400"> </a> -->
