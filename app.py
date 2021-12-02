@@ -91,7 +91,7 @@ if file is not None:
                           color_mode='rgba', target_size=(288, 432))
 
     filename = download_image()
-    st.write(filename)
+    st.write(f"### {filename}")
     st.audio(file, "audio/mp3")
 
     class_label, prediction = predict(image_data, model)
@@ -107,7 +107,6 @@ if file is not None:
     plt.xticks(rotation=45)
     ax.set_title(
         "Probability Distribution Of The Given Song Over Different Genres")
-    plt.show()
     st.pyplot(fig)
 
     st.write(f"### Mel Spectrogram")
