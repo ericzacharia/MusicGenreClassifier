@@ -1,6 +1,6 @@
 # Predicting the Genre of Music Samples without Extracting Audio Features using a Convolutional Neural Network
 
-## Video Presentation on YouTube (In Progress):
+## Video Presentation on YouTube:
 <a href="https://www.youtube.com/watch?v=uCnjrpbmTC0"> <img alt="Video Presentation" src="YouTubeThumbnail.png" width="400"> </a>
 
 ## Abstract
