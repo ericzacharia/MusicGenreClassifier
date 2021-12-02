@@ -19,7 +19,9 @@ The CNNModelWeights.h5 is the saved weights for the trained CNN model, which is 
 The requirements.txt file contains the command line arguments necessary to install all of the necessary packages to run the main program. The main program will automatically read this file and install any packages not already installed on your computer. You do not need to manually install these packages.
 
 ## Web App Usage
-Install the packages found in requirements.txt. Than run the following command from this project's root directory:
+First, install the packages found in requirements.txt. 
+
+Then, run the following command from this project's root directory:
 
 $ streamlit run app.py
 
